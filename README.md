@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am BunnyBit , a fullstack engineer.
+
+### Tech stack
+
+* Vue.js
+* TypeScript
+* Python
+* Wasm
+* Arduino - for hardware prototype
+
 <!--
 **et84121/et84121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
