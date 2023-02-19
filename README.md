@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Bunnybit, 
+I'm Bunnybit, a taiwanese, living in Taipei currently.
 
-## expertise in
- - web frontend technologies 
- - video and audio streaming
- - desktop app building
- - web crawling
+## Expertise in
+ - Web frontend technologies 
+ - Video and Audio Streaming
+ - Desktop App building
+ - Web crawling
  - DevOps
- - video digital rights management. 
+ - Video Digital Rights Management(DRM). 
 
 ## Tech Stack 
 - JavaScript / TypeScript
